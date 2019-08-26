@@ -16,10 +16,6 @@ Download these datasets somewhere.
 - [MPI-INF-3DHP](http://human-pose.mpi-inf.mpg.de/#download)
 - [Our synthetic dataset](https://drive.google.com/file/d/1nQEPCVY7VOXV-KOxeCX7hIQ9I4LLumWm/view?usp=sharing)
 
-For Human3.6M, download the pre-computed tfrecords [here](https://drive.google.com/open?id=1tquavoVWSdGeOn9P6zwoffIMoCRElzEO).
-Note that this is 11GB.
-
-
 If you use the datasets above, please consider citing their original papers.
 
 ## Training and Evaluation
